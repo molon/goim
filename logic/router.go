@@ -1,10 +1,10 @@
 package main
 
 import (
-	"goim/libs/hash/ketama"
-	inet "goim/libs/net"
-	"goim/libs/net/xrpc"
-	"goim/libs/proto"
+	"github.com/Terry-Mao/goim/libs/hash/ketama"
+	inet "github.com/Terry-Mao/goim/libs/net"
+	"github.com/Terry-Mao/goim/libs/net/xrpc"
+	"github.com/Terry-Mao/goim/libs/proto"
 	"strconv"
 
 	log "github.com/thinkboy/log4go"

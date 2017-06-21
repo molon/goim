@@ -1,7 +1,7 @@
 package test
 
 import (
-	proto "goim/libs/proto"
+	proto "github.com/Terry-Mao/goim/libs/proto"
 	rpc "net/rpc"
 	"sort"
 	"testing"

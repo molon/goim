@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goim/libs/net/xrpc"
+	"github.com/Terry-Mao/goim/libs/net/xrpc"
 	"time"
 )
 

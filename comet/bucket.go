@@ -1,8 +1,8 @@
 package main
 
 import (
-	"goim/libs/define"
-	"goim/libs/proto"
+	"github.com/Terry-Mao/goim/libs/define"
+	"github.com/Terry-Mao/goim/libs/proto"
 	"sync"
 	"sync/atomic"
 )

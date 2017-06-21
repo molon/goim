@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"goim/libs/define"
-	"goim/libs/encoding/binary"
-	"goim/libs/proto"
+	"github.com/Terry-Mao/goim/libs/define"
+	"github.com/Terry-Mao/goim/libs/encoding/binary"
+	"github.com/Terry-Mao/goim/libs/proto"
 
 	"github.com/Shopify/sarama"
 	log "github.com/thinkboy/log4go"

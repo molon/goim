@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"goim/libs/perf"
+	"github.com/Terry-Mao/goim/libs/perf"
 	"runtime"
 
 	log "github.com/thinkboy/log4go"

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"goim/libs/bufio"
-	"goim/libs/bytes"
-	"goim/libs/define"
-	"goim/libs/proto"
-	itime "goim/libs/time"
+	"github.com/Terry-Mao/goim/libs/bufio"
+	"github.com/Terry-Mao/goim/libs/bytes"
+	"github.com/Terry-Mao/goim/libs/define"
+	"github.com/Terry-Mao/goim/libs/proto"
+	itime "github.com/Terry-Mao/goim/libs/time"
 	"io"
 	"net"
 	"time"

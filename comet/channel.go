@@ -1,8 +1,8 @@
 package main
 
 import (
-	"goim/libs/bufio"
-	"goim/libs/proto"
+	"github.com/Terry-Mao/goim/libs/bufio"
+	"github.com/Terry-Mao/goim/libs/proto"
 )
 
 // Channel used by message pusher send msg to write goroutine.

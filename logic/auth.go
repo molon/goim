@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goim/libs/define"
+	"github.com/Terry-Mao/goim/libs/define"
 	"strconv"
 )
 

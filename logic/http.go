@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	inet "goim/libs/net"
+	inet "github.com/Terry-Mao/goim/libs/net"
 	"io/ioutil"
 	"net"
 	"net/http"

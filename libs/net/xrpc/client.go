@@ -2,7 +2,7 @@ package xrpc
 
 import (
 	"errors"
-	"goim/libs/proto"
+	"github.com/Terry-Mao/goim/libs/proto"
 	"net"
 	"net/rpc"
 	"time"
